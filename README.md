@@ -1,5 +1,8 @@
 # Usefull links for me or anyone else
 
+## References
+* POSIX SHELL: https://www.grymoire.com/Unix/Sh.html
+* 
 ## Learning Material
 * SHADERS: https://github.com/stackgl/shader-school
 
