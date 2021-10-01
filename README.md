@@ -1,4 +1,4 @@
-# Usefull links for me or anyone else
+# Useful links for me or anyone else
 
 ## References
 * POSIX SHELL REFERENCE: https://pubs.opengroup.org/onlinepubs/9699919799/
